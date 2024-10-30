@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Everything
 - 📫 How to reach me ...
 
-<h1 align="center">Hi 👋, I'm Abiboe(Zero_cero)</h1>
+<h1 align="center">Hi 👋, I'm Abiboe(Cero)</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://abiboein.web.app/" target="_blank">

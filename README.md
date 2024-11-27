@@ -38,5 +38,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <i>"Forever learning and growing in the vast landscape of technology!"</i>
+  <i>"Forever learning and growing in this vast landscape!"</i>
 </p>

@@ -24,13 +24,11 @@
 ```bash
 $ cat /etc/profile.d/abiboe.conf
 
-NAME="Abiboe Vince (Cero)"
-ROLE="Cybersecurity Analyst @ Insodus Tech"
-LOCATION="UK 🇬🇧"
+NAME="(Cero)"
+LOCATION="11110000 10011111 1000010 A 10010011 11110000 10011111 1000010 A 10000111"
 FOCUS="AI-Powered Red Team Operations"
 CURRENTLY="Autonomous Hacking Agents + Decepticon Framework"
-PHILOSOPHY="To counter an AI, you need an AI"
-WEBSITE="https://abiboein.web.app"
+"If you don't break more than one law at a time, you'll never get caught."
 ```
 
 ### What I'm building

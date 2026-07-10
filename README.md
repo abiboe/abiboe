@@ -11,13 +11,13 @@
 
 ### `[ CYBERSECURITY ANALYST • AI RED TEAM OPERATOR • FULL-STACK BUILDER ]`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Autonomous+AI+Red+Team+Operations;Building+Offensive+Vaccines+for+Defense;Full-Stack+%7C+Cloud+%7C+Security+%7C+AI;Forever+learning+and+growing...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Autonomous+AI+Red+Team+Operations;Building+Offensive+Security+Tools;Full-Stack+Development+%2B+Cloud+Engineering;AI+Agents+for+Cyber+Operations)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ## `whoami`
 
@@ -130,14 +130,14 @@ CURRENTLY="Autonomous Hacking Agents + Decepticon Framework"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abiboe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&text_color=c0c0d8&icon_color=00ff88" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiboe&exclude_repo=KNN-Image-Classification&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&text_color=c0c0d8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abiboe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiboe&exclude_repo=KNN-Image-Classification&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abiboe&theme=chartreuse-dark&hide_border=true&background=0a0a0f&ring=00ff88&fire=ff4444&currStreakLabel=00ff88)
+![Streak](https://streak-stats.demolab.com/?user=abiboe&theme=chartreuse-dark&hide_border=true&background=0a0a0f&ring=00ff88&fire=ff4444&currStreakLabel=00ff88)
 
 </div>
 

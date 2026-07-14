@@ -186,7 +186,6 @@ A live swarm simulation where your cursor is the neural transmitter — bots flo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abiboe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiboe&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&text_color=c9d1d9" />
 
 <br><br>
@@ -211,9 +210,7 @@ A live swarm simulation where your cursor is the neural transmitter — bots flo
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR_SITE.com"><img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+
 
 </div>
 

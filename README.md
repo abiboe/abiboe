@@ -1,17 +1,9 @@
+<!-- ====================== ANIMATED HERO ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=210&section=header&text=ABIBOE&fontSize=78&fontColor=00ff88&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20Analyst%20•%20AI%20Red%20Team%20Operator%20•%20Full-Stack%20Builder&descSize=17&descAlignY=60&descColor=c9d1d9" />
+
 <div align="center">
 
-```ascii
- ░█████╗░██████╗░██╗██████╗░░█████╗░███████╗
- ██╔══██╗██╔══██╗██║██╔══██╗██╔══██╗██╔════╝
- ███████║██████╦╝██║██████╦╝██║░░██║█████╗░░
- ██╔══██║██╔══██╗██║██╔══██╗██║░░██║██╔══╝░░
- ██║░░██║██████╦╝██║██████╦╝╚█████╔╝███████╗
- ╚═╝░░╚═╝╚═════╝░╚═╝╚═════╝░░╚════╝░╚══════╝
-```
-
-### `[ CYBERSECURITY ANALYST • AI RED TEAM OPERATOR • FULL-STACK BUILDER ]`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=620&lines=Autonomous+AI+Red+Team+Operations;Offensive+Security+Tooling+at+Machine+Speed;LLM+Agents+for+Cyber+Operations;Full-Stack+%2B+Cloud+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=640&lines=Autonomous+AI+Red+Team+Operations;Offensive+Security+Tooling+at+Machine+Speed;LLM+Agents+for+Cyber+Operations;Full-Stack+%2B+Cloud+Engineering)](https://git.io/typing-svg)
 
 <a href="#-connect"><img src="https://img.shields.io/badge/-Get_In_Touch-00ff88?style=for-the-badge&logo=minutemailer&logoColor=black" /></a>
 <img src="https://komarev.com/ghpvc/?username=abiboe&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -20,7 +12,8 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="terminal gif"/>
+<!-- ====================== WHOAMI ====================== -->
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="terminal gif"/>
 
 ## `whoami`
 
@@ -38,9 +31,9 @@ MOTTO="The quieter you become, the more you are able to hear."
 **What I build:**
 
 - 🔴 &nbsp;**Autonomous AI red team agents** — full kill-chain execution at machine speed
-- 🛡️ &nbsp;**Offensive Vaccines** — using controlled AI attacks to force defensive evolution
+- 🛡️ &nbsp;**Offensive Vaccines** — controlled AI attacks that force defensive evolution
 - 🤖 &nbsp;**AI × Security** — where LLM agents meet real penetration-testing methodology
-- ⚡ &nbsp;**Full-stack systems** — web apps to cloud infrastructure, end to end
+- ⚡ &nbsp;**Full-stack + interactive systems** — from web apps to cloud infra to WebGL demos
 
 > `Authorized. Controlled. AI-powered.` — every engagement, every time.
 
@@ -48,6 +41,26 @@ MOTTO="The quieter you become, the more you are able to hear."
 
 ---
 
+<!-- ====================== INTERACTIVE DEMO ====================== -->
+## `🕹️ ./run interactive-demo`
+
+<div align="center">
+
+[![Microbots — Neural Swarm](assets/microbots-preview.gif)](https://abiboe.github.io/microbots/)
+
+**Microbots — Neural Swarm Interface**
+A live swarm simulation where your cursor is the neural transmitter — bots flock, latch together with electromagnetic links, and reorganize into shapes on command.
+
+[![Launch Demo](https://img.shields.io/badge/▶_LAUNCH_LIVE_DEMO-00ff88?style=for-the-badge&logoColor=black)](https://abiboe.github.io/microbots/)
+&nbsp;
+![Canvas](https://img.shields.io/badge/Canvas-000000?style=for-the-badge&logo=html5&logoColor=00ff88)
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-000000?style=for-the-badge&logo=javascript&logoColor=00ff88)
+
+</div>
+
+---
+
+<!-- ====================== ARSENAL ====================== -->
 ## `cat arsenal.json`
 
 <div align="center">
@@ -88,13 +101,14 @@ MOTTO="The quieter you become, the more you are able to hear."
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
+<!-- ====================== PROJECTS ====================== -->
 ## `ls -la ~/projects`
 
 <table>
@@ -124,7 +138,7 @@ MOTTO="The quieter you become, the more you are able to hear."
 <td width="50%" valign="top">
 
 ### 🤖 Agent Pipelines
-> Production LLM agent workflows for cyber operations — tool-calling, memory, and guardrails wired for real engagements.
+> Production LLM agent workflows for cyber ops — tool-calling, memory, and guardrails wired for real engagements.
 
 `LangChain` &nbsp;`Claude API` &nbsp;`Node.js`
 
@@ -133,31 +147,47 @@ MOTTO="The quieter you become, the more you are able to hear."
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Builds
-> Cross-platform apps and cloud-native services — React / React Native front ends on Firebase & containerized back ends.
+### 🕹️ Microbots Swarm
+> Interactive neural-swarm simulation — cursor-driven flocking, electromagnetic linking, and shape morphing. A WebGL/Canvas showcase.
 
-`React` &nbsp;`Firebase` &nbsp;`Docker`
+`Canvas` &nbsp;`Vanilla JS` &nbsp;`Simulation`
 
-[**→ View Repo**](https://github.com/abiboe)
+[**→ Live Demo**](https://abiboe.github.io/microbots/)
 
 </td>
 </tr>
 </table>
 
+<div align="center"><sub>Swap the repo links above for your pinned repositories.</sub></div>
+
+---
+
+<!-- ====================== 3D + DYNAMIC ====================== -->
+## `🧊 render 3d --dynamic`
+
 <div align="center">
 
-<sub>Swap the four links above for your pinned repos — or replace this block with live cards using<br><code>https://github-readme-stats.vercel.app/api/pin/?username=abiboe&repo=REPO_NAME</code></sub>
+### 3D Contribution Skyline
+<sub>An actual rotating 3D model of my contribution history — regenerated daily.</sub>
+
+<img width="92%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution skyline" />
+
+<br><br>
+
+### 🐍 Watch the snake eat my commits
+<img width="92%" src="https://raw.githubusercontent.com/abiboe/abiboe/output/github-snake-hacker.svg" alt="snake animation" />
 
 </div>
 
 ---
 
+<!-- ====================== ANALYTICS ====================== -->
 ## `curl -s stats.github.com/abiboe`
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abiboe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiboe&exclude_repo=KNN-Image-Classification&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiboe&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff88&text_color=c9d1d9" />
 
 <br><br>
 
@@ -175,6 +205,7 @@ MOTTO="The quieter you become, the more you are able to hear."
 
 ---
 
+<!-- ====================== CONNECT ====================== -->
 ## `📡 Connect`
 
 <div align="center">
@@ -186,7 +217,7 @@ MOTTO="The quieter you become, the more you are able to hear."
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -194,6 +225,7 @@ MOTTO="The quieter you become, the more you are able to hear."
 $ echo "The best defense is a relentless offense — controlled, authorized, and AI-powered."
 ```
 
-<sub>⚡ Thanks for stopping by the terminal.</sub>
-
 </div>
+
+<!-- ====================== ANIMATED FOOTER ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=120&section=footer&text=thanks%20for%20stopping%20by%20the%20terminal&fontSize=16&fontColor=00ff88&fontAlignY=75&reversal=true" />
